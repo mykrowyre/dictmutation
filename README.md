@@ -2,7 +2,7 @@ This is a short script I wrote to mutate a dictionary file using only the charac
 
 Of course the purpose is to brute force passwords.<br>
 <br>
-Wrote this in memory of old times with Dr. Delam, Zippy, Phantom Dialer, Intrepid Traveller, Trouble, Kaleidox, and others.
+Wrote this in memory of old times with Dr. Delam, Zibby, Phantom Dialer, Intrepid Traveller, Trouble, Kaleidox, and others.
 <BR>
 Example chars.txt:<br>
 <br>
