@@ -1,6 +1,10 @@
-This is a short script I wrote to mutate a dictionary file using only the character substitutions provided in the character substitution file.  Of course the purpose is to brute force passwords.<br>
+This is a short script I wrote to mutate a dictionary file using only the character substitutions provided in the character substitution file.  
+
+Of course the purpose is to brute force passwords.<br>
 <br>
-Example chars.txt:
+Wrote this in memory of old times with Dr. Delam, Zippy, Phantom Dialer, Intrepid Traveller, Trouble, Kaleidox, and others.
+<BR>
+Example chars.txt:<br>
 <br>
 aA4<br>
 eE3<br>
