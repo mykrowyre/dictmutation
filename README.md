@@ -1,46 +1,46 @@
 This is a short script I wrote to mutate a dictionary file using only the 
 character substitutions provided in the character substitution file.  Of course the purpose
 is to brute force passwords.
-
+<br>
 Example chars.txt:
-
-aA4
-eE3
-tT+
-iI1
-
+<br>
+aA4<br>
+eE3<br>
+tT+<br>
+iI1<br>
+<br>
 Example words.txt:
-
-test
-
-Example output:
-
-test
-tesT
-tes+
-tEst
-tEsT
-tEs+
-t3st
-t3sT
-t3s+
-Test
-TesT
-Tes+
-TEst
-TEsT
-TEs+
-T3st
-T3sT
-T3s+
-+est
-+esT
-+es+
-+Est
-+EsT
-+Es+
-+3st
-+3sT
-+3s+
+<br>
+test<br>
+<br>
+Example output:<br>
+<br>
+test<br>
+tesT<br>
+tes+<br>
+tEst<br>
+tEsT<br>
+tEs+<br>
+t3st<br>
+t3sT<br>
+t3s+<br>
+Test<br>
+TesT<br>
+Tes+<br>
+TEst<br>
+TEsT<br>
+TEs+<br>
+T3st<br>
+T3sT<br>
+T3s+<br>
++est<br>
++esT<br>
++es+<br>
++Est<br>
++EsT<br>
++Es+<br>
++3st<br>
++3sT<br>
++3s+<br>
 
 
