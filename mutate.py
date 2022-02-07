@@ -147,10 +147,6 @@ if __name__ == '__main__':
     args = parser.parse_args()
     run(args)
 
-# Template
-# a = alpha lower case only
-# A = alpha upper case only
-# # = numeric only
-# c = any from characters
+
 
 
