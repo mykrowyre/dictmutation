@@ -135,7 +135,7 @@ def incremement_word(args, original, current, chars):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Mykrowyres word twister')
+    parser = argparse.ArgumentParser(description='Dictionary mutator')
     parser.add_argument('words', nargs='?', help='words file', default='words.txt')
     parser.add_argument('chars', nargs='?', help='characters file', default='chars.txt')
     parser.add_argument('--rev', action='store_true', help='include reverse of resulting word', default=False)
